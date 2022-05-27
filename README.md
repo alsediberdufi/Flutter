@@ -1,3 +1,11 @@
+Simple Shopping List Application in Flutter with Firebase auth/database/hosting, when u can add product, save them to favorites and firbase.
+
+https://iotl6-8ffd4.web.app/#/  
+
+
+
+
+
 # iot_l6
 
 A new Flutter project.
