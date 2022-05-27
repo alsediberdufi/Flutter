@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "355108186758",
+    "project_id": "iotl6-8ffd4",
+    "storage_bucket": "iotl6-8ffd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355108186758:android:3053810527e8140c697f07",
+        "android_client_info": {
+          "package_name": "com.example.iot_l6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355108186758-cf6gvun84p95oacqhnj7eteh8b9u80n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCstJHhTXLbmSSx5mMuvRpPn-HBfSm6Feg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355108186758-cf6gvun84p95oacqhnj7eteh8b9u80n3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355108186758-4qvbd5pdus6bnm8vpsefed1u34kncj5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotL6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
